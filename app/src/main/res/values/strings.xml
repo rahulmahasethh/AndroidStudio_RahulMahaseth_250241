@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">C39A</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="title_activity_card">CardActivity</string>
+    <string name="title_activity_card2">CardActivity2</string>
+    <string name="title_activity_ui2">Ui2</string>
+</resources>
